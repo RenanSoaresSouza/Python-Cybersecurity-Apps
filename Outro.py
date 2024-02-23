@@ -1,3 +1,0 @@
-import Main
-
-print("Importado")
