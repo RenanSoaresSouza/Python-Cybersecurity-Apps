@@ -1,4 +1,4 @@
-#CYBERSECURITY-APPS (Python)
+# CYBERSECURITY-APPS (Python)
 
 ATENÇÃO: NÃO USE ESSE REPOSITORIO PARA FINS MALICIOSOS (não me responsabilizarei pelos danos causados)
 
