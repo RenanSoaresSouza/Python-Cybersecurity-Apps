@@ -19,7 +19,6 @@ else:
 			elif resp['TCP'].flags == 'RA':
 				print(f'Porta {x} [FECHADA]')
 	elif (scantp == '-st'):
-
 		for x in portas_default:
 			s = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
 			s.settimeout(3)
@@ -34,3 +33,4 @@ else:
 	else:
 		print('Tipo de Scan Inválido')
 
+print(sys.argv[0:])
