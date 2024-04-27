@@ -32,5 +32,3 @@ else:
 				print(f'PORTA {x} [FECHADA]')
 	else:
 		print('Tipo de Scan Inválido')
-
-print(sys.argv[0:])
